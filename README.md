@@ -32,10 +32,14 @@ Table of Contents:
 .Features
 .Screenshots
 .Credits
+.Technologies Uesd
 .License
 
 
-Users Story
+Users Story:
+
+As a Frontend Web Developer through coding, I achieved the desired software that randomly generates passwords at any time. This software runs in the browser and has a clean and polished user interface that is responsive as well.
+
 
 
 
@@ -44,23 +48,46 @@ Users Story
 
 Screenshots:
 
-A screenshots with console:
+1.A screenshot with console:
 ![A screen shot of a Website with It's console open](./assets/images/Password-Generated.jpg)
 
-How many characters would you like your password to remain? Answer:15
+2.How many characters would you like your password to remain? Answer:15
 ![A screen shot of a Website with It's console open](./assets/images/Password-Generator-1.jpg)
 
-Lowercase Characters:
+3.Lowercase Characters:
 ![A screen shot of a Website with It's console open](./assets/images/Password-Generator-2.jpg)
 
-Uppercase Characters:
+4.Uppercase Characters:
 ![A screen shot of a Website with It's console open](./assets/images/Password-Generator-3.jpg)
 
-Numaric Characters:
+5.Numaric Characters:
 ![A screen shot of a Website with It's console open](./assets/images/Password-Generator-4.jpg)
 
-Special Characters:
+6.Special Characters:
 ![A screen shot of a Website with It's console open](./assets/images/Password-Generator-5.jpg)
 
-A password has generated here:
+7.A password has generated here:
 ![A screen shot of a Website with It's console open](./assets/images/Password-Generator-6.jpg)
+
+
+
+
+Credits:
+.https://bootcampspot.instructure.com/courses/5076
+.https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+.https://www.markdownguide.org/cheat-sheet
+
+
+
+
+
+Technologies Used:
+
+.HTML5
+.CSS3
+.JAVASCRIPT
+
+
+License:
+
+This project is licensed under the MIT License.
