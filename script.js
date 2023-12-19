@@ -89,49 +89,6 @@ var upperCasedCharacters = [
 ];
 
 
-// var specialCharacters=[ ];
-// var numaricCharacters=[ ];
-// var lowerCaseCharacters=[ ];
-// var uperCaseCharacters=[ ];
-
-
-// function consoleinside(arr){
-//   for (var i=0; i<arr.length; i ++)[
-
-//     console.log(arr[i]),
-//     console.log("passwordGenerator"),
-//   ]
-
-// }
-
-
-// consoleInside('specialCharacters');
-// consoleInside('numaricCharacters');
-// consoleInside('lowerCaseCharacters');
-// consoleInside('uperCaseCharacters');
-
-// function declarePassword() {
-//   console.log("Password, Password Generator");
-//   console.log("Generatae a password");
-// }
-
-// var expressPassword=fuction(),{
-//   console.log("How many character would you like your password to remain?");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Function to prompt user for password options
 function getPasswordOptions() {
   console.log
