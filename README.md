@@ -45,3 +45,15 @@ Users Story
 Screenshots:
 
 ![A screen shot of a Website with It's console open](./assets/images/Password-Generated.jpg)
+How many characters would you like your password to remain? Answer:15
+![A screen shot of a Website with It's console open](./assets/images/Password-Generator-1.jpg)
+Lowercase Characters:
+![A screen shot of a Website with It's console open](./assets/images/Password-Generator-2.jpg)
+Uppercase Characters:
+![A screen shot of a Website with It's console open](./assets/images/Password-Generator-3.jpg)
+Numaric Characters:
+![A screen shot of a Website with It's console open](./assets/images/Password-Generator-4.jpg)
+Special Characters:
+![A screen shot of a Website with It's console open](./assets/images/Password-Generator-5.jpg)
+A password has generated here:
+![A screen shot of a Website with It's console open](./assets/images/Password-Generator-6.jpg)
