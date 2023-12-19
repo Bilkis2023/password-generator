@@ -1,6 +1,6 @@
 # Title:
 
-Password-Generator
+### Password-Generator
 
 https://bilkis2023.github.io/password-generator/
 <br>
@@ -15,30 +15,30 @@ By generating a password randomly anyone can ensure their document's safety and 
 ## Acceptance criteria:
 
 
-.Generate a password when the button is clicked<br>
-.Present a series of prompts for password criteria<br>
-.Length of password<br>
-.At least 8 characters but no more than 128.<br>
-.Character types<br>
-.Lowercase<br>
-.Uppercase<br>
-.Numeric<br>
-.Special characters ($@%&*# etc)<br>
-.Code should validate for each input and at least one character type should be selected<br>
-.Once prompts are answered then the password should be generated and displayed in an   alert or written to the page.<br>
+- Generate a password when the button is clicked<br>
+- Present a series of prompts for password criteria<br>
+- Length of password<br>
+- At least 8 characters but no more than 128.<br>
+- Character types<br>
+- Lowercase<br>
+- Uppercase<br>
+- Numeric<br>
+- Special characters ($@%&*# etc)<br>
+- Code should validate for each input and at least one character type should be selected<br>
+- Once prompts are answered then the password should be generated and displayed in an   alert or written to the page.<br>
 <br>
 <br>
 
 
 ## Table of Contents: <br>
-.Title<br>
-.Description<br>
-.Users Story<br>
-.Acceptance Criteria<br>
-.Screenshots<br>
-.Credits<br>
-.Technologies Used<br>
-.License<br>
+- Title<br>
+- Description<br>
+- Users Story<br>
+- Acceptance Criteria<br>
+- Screenshots<br>
+- Credits<br>
+- Technologies Used<br>
+- License<br>
 <br>
 <br>
 
