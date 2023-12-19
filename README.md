@@ -1,14 +1,18 @@
-Title:
+# Title:
 
 Password-Generator
 
-Description:
+https://bilkis2023.github.io/password-generator/
+<br>
+
+## Description:
 
 I have made this project to control access into any file, folder, document, website and any kind of software system, etc. 
-By generating a password randomly anyone can ensure their document's safety and security.
+By generating a password randomly anyone can ensure their document's safety and security.<br>
+<br>
 
 
-Acceptance criteria:
+# Acceptance criteria:
 
 
 .Generate a password when the button is clicked<br>
@@ -22,29 +26,29 @@ Acceptance criteria:
 .Special characters ($@%&*# etc)<br>
 .Code should validate for each input and at least one character type should be selected<br>
 .Once prompts are answered then the password should be generated and displayed in an   alert or written to the page.<br>
+<br>
+<br>
 
 
-Table of Contents: <br>
+# Table of Contents: <br>
 .Title<br>
 .Description<br>
 .Users Story<br>
 .Acceptance Criteria<br>
-.Features<br>
 .Screenshots<br>
 .Credits<br>
 .Technologies Used<br>
 .License<br>
+<br>
+<br>
 
 
-Users Story:<br>
+# Users Story:<br>
 
 As a Frontend Web Developer through coding, I achieved the desired software that randomly generates passwords at any time. This software runs in the browser and has a clean and polished user interface that is responsive as well.<br>
 
-
-
-
-
-
+<br>
+<br>
 
 Screenshots:<br>
 
@@ -69,7 +73,9 @@ Screenshots:<br>
 7.A password has generated here:<br>
 ![A screen shot of a Website with It's console open](./assets/images/Password-Generator-6.jpg)
 
+<br>
 
+<br>
 
 
 Credits:<br>
@@ -77,15 +83,17 @@ Credits:<br>
 .https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/<br>
 .https://www.markdownguide.org/cheat-sheet<br>
 
-
-
-
+<br>
+<br>
 
 Technologies Used:<br>
 
 .HTML5<br>
 .CSS3<br>
 .JAVASCRIPT<br>
+<br>
+<br>
+
 
 
 License:<br>
