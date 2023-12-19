@@ -2,7 +2,7 @@
 
 ### Password-Generator
 
-https://bilkis2023.github.io/password-generator/
+- https://bilkis2023.github.io/password-generator/
 <br>
 
 ## Description:
@@ -89,9 +89,9 @@ As a Frontend Web Developer through coding, I achieved the desired software that
 
 ## Technologies Used:<br>
 
-**HTML5**<br>
-**CSS3**<br>
-**JAVASCRIPT**<br>
+- **HTML5**<br>
+- **CSS3**<br>
+- **JAVASCRIPT**<br>
 <br>
 <br>
 
@@ -99,4 +99,4 @@ As a Frontend Web Developer through coding, I achieved the desired software that
 
 ## License:<br>
 
-*This project is licensed under the MIT License.*
+-👉 *This project is licensed under the MIT License.*
